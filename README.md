@@ -5,7 +5,7 @@ The problem statement for the study is the need to accurately predict adverse pe
 ## Aim of the Study
 The study aims to compare two ratios, the cerebroplacental ratio (CPR) and the umbilicocerebral ratio (UCR), in their ability to predict adverse perinatal outcomes in cases of pre-eclampsia. These ratios are likely indicators of fetal well-being and can provide valuable information for clinical decision-making
 
-## Ojectives
+## OBjectives
 - To determine the mean cerebroplacental ratio (CPR) in pregnancies complicated by pre-eclampsia.
 - To determine the mean umbilicocerebral (UCR) ratio in pregnancies complicated by pre-eclampsia.
 - To determine the relationship between cerebroplacental ratio (CPR) and adverse perinatal outcome.
