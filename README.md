@@ -15,8 +15,14 @@ The study aims to compare two ratios, the cerebroplacental ratio (CPR) and the u
 ## Outcome Measures
 The primary outcome is to compare the diagnostic performance of CPR and UCR in detecting the presence of fetuses affected by a composite adverse outcome. The outcome measures include the APGAR scores (<7) of the babies in the first and fifth minute, birth asphyxia, low birth weight       at delivery,  admission to the special care baby unit, perinatal mortality.
 
-### APGAR < 7 at 1st minute
+# APGAR < 7 at 1st minute and CPR
 Summary Statistics      |      Graphical representation
-:----------------------:|:-----------------------------:
-                        |
-![](cpr1.PNG)              ![](distribution of cpr1.PNG)
+:----------------------:|:----------------------------------:
+                        |                                    
+  ![](cpr1.PNG)                    ![](distributionofcpr1.PNG)
+
+  ## Interpretation: 
+  The statistical analysis was conducted using the TTEST Procedure. The t-test conducted on the dataset revealed a highly significant result (p < .0001), indicating a strong association between Apgar scores below 7 at the 1st minute and the need for CPR interventions. The mean CPR value of 1.1585 suggests that, on average, CPR was administered in these cases, with a notable standard deviation of 0.3055. 
+  
+## Conclusion:
+This analysis underscores the critical nature of CPR interventions in cases where newborns exhibit lower Apgar scores shortly after birth. The statistical findings emphasize the importance of prompt and effective medical interventions in such scenarios to ensure the well-being and survival of newborns.
